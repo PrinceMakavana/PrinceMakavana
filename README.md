@@ -8,7 +8,7 @@
 <img align="left" style="margin-right:50px" width="50%"  src="https://github-readme-stats.vercel.app/api?username=PrinceMakavana"/>
 
 
-<img align="left"  width="42%" style="margin-bottom:50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceMakavana&layout=compact"/>
+<img align="left"  width="45%" style="margin-bottom:50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceMakavana&layout=compact"/>
 
 
 
