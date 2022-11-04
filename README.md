@@ -105,6 +105,9 @@
 
 <br />
 
+<h2 align="center"> 🔥 Badge</h2>
+
+
 [![@princemakavana's Holopin board](https://holopin.me/princemakavana)](https://holopin.io/@princemakavana)
 
 <br />
