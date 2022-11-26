@@ -8,7 +8,7 @@
 
 
 
-<p align="center"><a href="http://princemakavana61.c1.biz/"><img width="80%" alt="Hello, I'm Prince. I do open source!" src="./assets/github_prifile.png" /></a></p>
+<p align="center"><a href="https://princemakavana61.me/"><img width="80%" alt="Hello, I'm Prince. I do open source!" src="./assets/github_prifile.png" /></a></p>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/princemakavana61/"><img height="30" src="./assets/linkedin.png"></a>&nbsp;&nbsp;
