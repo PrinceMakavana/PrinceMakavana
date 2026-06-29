@@ -30,37 +30,15 @@
 <hr />
 
 
-- 💼 SDE at [Simform](https://www.simform.com/)
+- 💼 Software Engineer | Rich Text & AI Editor Specialist (Tiptap, ProseMirror) | Next.js · Node.js · Python | Building AI-First Products
 
-- 📈 Currently, I am in the Computer Engineering at GEC-Rajkot. Mostly I am a hard worker, always ready to accept challenges
+- 📈 Currently contributing at The DevTime Tech with 99% uptime also leveraging expertise in Python, AI Services
 
-- I do fullstack and a bit of everything ❤️  All About living life at its best.
+- Holds a B.E. in Computer Engineering degree from GEC-Rajkot
 
-- 💬 Ask me about anything [here](https://github.com/PrinceMakavana/PrinceMakavana/issues)
+- 💬 Ask me about anything [here](https://princemakavana.com/#contact)
 
-<hr />
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/PrinceMakavana" title="Go to Source">
-      <img align="left" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceMakavana&theme=react&border=61dafb&hide_border=true" alt="PrinceMakavana" />
-    </a>
-    <a href="https://github.com/PrinceMakavana" title="Go to Source">
-      <img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=PrinceMakavana&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-      <img src="https://activity-graph.herokuapp.com/graph?username=PrinceMakavana&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" align="right" />
-  </div>
-</p>
-<br />
-<br />
-
-### - Languages and Tools...
+### Languages and Tools...
 <hr />
 
 <p align="center">
